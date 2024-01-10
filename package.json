@@ -1,0 +1,19 @@
+{
+  "name": "tt-mail-server",
+  "version": "1.0.0",
+  "description": "TT QA Mail server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milance1998/js-tt-mail-server.git"
+  },
+  "author": "milance1998",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milance1998/js-tt-mail-server/issues"
+  },
+  "homepage": "https://github.com/milance1998/js-tt-mail-server#readme"
+}
